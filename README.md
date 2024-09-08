@@ -2,6 +2,7 @@ Hi, I'm Andreas Skånberg.
 
 I’m currently pursuing my Bachelor's degree in Computer Science at Stockholm University, where I’m building a solid foundation in software development, algorithms, and systems design.
 
+
 👨‍💻 Programming Interests:
 
 Artificial Intelligence
@@ -12,6 +13,7 @@ Game-development
 
 Network Security
 
+
 🛠️ Technologies & Tools:
 
 Languages: Java, Python, JavaScript, HTML, CSS
@@ -21,6 +23,7 @@ Frameworks & Libraries:
 AI & Data Science Tools:
 
 Version Control: Git, GitHub
+
 
 🌱 Current Learning:
 
@@ -43,6 +46,7 @@ Investigating web security protocols and their practical implementations.
 Improving proficiency in React for building modern and responsive web applications.
 
 Exploring game development, creating fun and game experiences.
+
 
 📫 Let's Connect:
 
